@@ -1,0 +1,15 @@
+﻿  modern_tehnologies.cpp
+c:\users\скурихин\documents\visual studio 2015\projects\modern_computer_tehnologies_10sem\modern_computer_tehnologies_10sem\modern_tehnologies.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\скурихин\documents\visual studio 2015\projects\modern_computer_tehnologies_10sem\modern_computer_tehnologies_10sem\modern_tehnologies.cpp(161): warning C4018: '<': signed/unsigned mismatch
+c:\users\скурихин\documents\visual studio 2015\projects\modern_computer_tehnologies_10sem\modern_computer_tehnologies_10sem\modern_tehnologies.cpp(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\скурихин\documents\visual studio 2015\projects\modern_computer_tehnologies_10sem\modern_computer_tehnologies_10sem\modern_tehnologies.cpp(241): warning C4018: '<': signed/unsigned mismatch
+c:\users\скурихин\documents\visual studio 2015\projects\modern_computer_tehnologies_10sem\modern_computer_tehnologies_10sem\modern_tehnologies.cpp(260): warning C4018: '<': signed/unsigned mismatch
+c:\users\скурихин\documents\visual studio 2015\projects\modern_computer_tehnologies_10sem\modern_computer_tehnologies_10sem\modern_tehnologies.cpp(264): warning C4018: '<': signed/unsigned mismatch
+c:\users\скурихин\documents\visual studio 2015\projects\modern_computer_tehnologies_10sem\modern_computer_tehnologies_10sem\modern_tehnologies.cpp(270): warning C4018: '<': signed/unsigned mismatch
+c:\users\скурихин\documents\visual studio 2015\projects\modern_computer_tehnologies_10sem\modern_computer_tehnologies_10sem\modern_tehnologies.cpp(293): warning C4018: '<': signed/unsigned mismatch
+c:\users\скурихин\documents\visual studio 2015\projects\modern_computer_tehnologies_10sem\modern_computer_tehnologies_10sem\modern_tehnologies.cpp(295): warning C4018: '<': signed/unsigned mismatch
+c:\users\скурихин\documents\visual studio 2015\projects\modern_computer_tehnologies_10sem\modern_computer_tehnologies_10sem\modern_tehnologies.cpp(302): warning C4018: '<': signed/unsigned mismatch
+c:\users\скурихин\documents\visual studio 2015\projects\modern_computer_tehnologies_10sem\modern_computer_tehnologies_10sem\modern_tehnologies.cpp(365): warning C4018: '<': signed/unsigned mismatch
+c:\users\скурихин\documents\visual studio 2015\projects\modern_computer_tehnologies_10sem\modern_computer_tehnologies_10sem\modern_tehnologies.cpp(384): warning C4018: '<': signed/unsigned mismatch
+  modern_computer_tehnologies_10sem.vcxproj -> C:\Users\скурихин\Documents\Visual Studio 2015\Projects\modern_computer_tehnologies_10sem\Debug\modern_computer_tehnologies_10sem.exe
+  modern_computer_tehnologies_10sem.vcxproj -> C:\Users\скурихин\Documents\Visual Studio 2015\Projects\modern_computer_tehnologies_10sem\Debug\modern_computer_tehnologies_10sem.pdb (Partial PDB)
